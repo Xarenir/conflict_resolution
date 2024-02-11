@@ -1,5 +1,5 @@
 # conflict_resolution
 
-## this is a subheading
+## this is a description
 
-very difficult mini project. Cant figure it out at all!
+easiest mini project! Love it!
