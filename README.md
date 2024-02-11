@@ -1,5 +1,5 @@
 # conflict_resolution
 
-## this is a description
+## this is a subheading part 2: the remix
 
-easiest mini project! Love it!
+very difficult mini project. Still, managed to figure it out!
